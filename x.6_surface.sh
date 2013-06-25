@@ -1,7 +1,5 @@
 #!/bin/bash
 
-rootDir=/Volumes/DATA/montreal_2012_02_11/data
-
 while read subject session min max
 do
 
